@@ -1,3 +1,5 @@
+Made by SniperGoth, using Blender and PDN.
+
 Content included in the game (maps, textures, sounds, models etc.) may have
 individual copyrights and distribution restrictions (see individual readmes),
 note that all content in Red Eclipse is intended to be "open source" friendly.
